@@ -1,0 +1,10 @@
+.contenedor-home {
+    height: 415px;
+    background-size: contain;
+    background-image: url('../../../assets/img/madera2.jpg');
+}
+
+.img-logob {
+    width: 300px;
+    opacity: 0.6;
+}
