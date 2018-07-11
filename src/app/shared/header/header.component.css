@@ -1,0 +1,25 @@
+.logo-nav {
+    height: 85px;
+}
+
+.navbar {
+    padding: 0rem 1rem;
+}
+
+.nav-text:hover {
+    border-bottom: solid 3px #802021;
+}
+
+.nav-text {
+    font-size: 18px;
+    background: transparent;
+    border: unset;
+}
+
+.nav-padding {
+    padding-right: 2rem !important;
+}
+
+.logo-padding {
+    padding-right: 3.5rem !important;
+}

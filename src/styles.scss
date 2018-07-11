@@ -1,21 +1,64 @@
 /* You can add global styles to this file, and also import other style files */
 
-.justify {
-    text-align: justify;
+.break-word {
+    word-wrap: break-word !important;
+}
+
+.text-black {
+    color: black !important;
+}
+
+.text-white {
+    color: white !important;
 }
 
 .text-center {
-    text-align: center;
+    text-align: center !important;
 }
 
-.text-right {
-    text-align: right;
+.text-justify {
+    text-align: justify !important;
 }
 
 .text-left {
-    text-align: left;
+    text-align: left !important;
 }
 
-.break-word {
-    word-wrap: break-word;
+.text-right {
+    text-align: right !important;
+}
+
+.frapp-bg {
+    background-color: #802021;
+}
+
+.frapp-color {
+    color: #802021;
+}
+
+.img-center {
+    margin: auto;
+    display: block;
+}
+
+.btn-center {
+    margin: auto;
+}
+
+
+/* FUENTES */
+
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+.francois {
+    font-family: 'Francois One', sans-serif !important;
+}
+
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif');
+.ibm {
+    font-family: 'IBM Plex Serif', serif !important;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Andada');
+.andada {
+    font-family: 'Andada', serif !important;
 }
